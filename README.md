@@ -18,6 +18,7 @@ Desarrollador Full Stack especializado en Java (Spring Boot), Node.js y React, e
 
 Java · Spring Boot · JavaScript · TypeScript · React · Node.js · SQL · Git · HTML · CSS
 
+<!--
 ---
 
 ## 🚀 Proyectos destacados
@@ -33,7 +34,7 @@ Frontend moderno consumiendo API REST con experiencia de usuario optimizada.
 ### 🔹 Proyecto Full Stack
 
 Aplicación completa tipo producto con backend + frontend integrados.
-
+-->
 ---
 
 ## 🎯 Objetivo profesional
