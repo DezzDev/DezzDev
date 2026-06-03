@@ -39,7 +39,7 @@ Aplicación completa tipo producto con backend + frontend integrados.
 
 ## 🎯 Objetivo profesional
 
-Busco oportunidades como Desarrollador Full Stack o Backend Java en entornos donde pueda aportar valor real y seguir creciendo técnicamente.
+Busco oportunidades como Desarrollador Full Stack o Backend Java o Node.js en entornos donde pueda aportar valor real y seguir creciendo técnicamente.
 
 ---
 
