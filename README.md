@@ -1,8 +1,47 @@
-- 👋 Hi, I’m @DezzDev
-- 🌱 I’m currently learning JavaScript and Java
+# 👋 Daniel Zapata — Full Stack Developer
 
+Desarrollador Full Stack especializado en Java (Spring Boot) y React, enfocado en construir aplicaciones web escalables, eficientes y bien estructuradas.
 
-<!---
-DezzDev/DezzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 En qué me enfoco
+
+* Desarrollo backend con Java y Spring Boot
+* APIs REST seguras y escalables
+* Frontend moderno con React
+* Bases de datos SQL bien diseñadas
+* Código limpio y mantenible
+
+---
+
+## ⚙️ Stack técnico
+
+Java · Spring Boot · JavaScript · TypeScript · React · Node.js · SQL · Git · HTML · CSS
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔹 API REST con Spring Boot
+
+Backend completo con autenticación JWT, CRUD y base de datos relacional.
+
+### 🔹 Aplicación React SPA
+
+Frontend moderno consumiendo API REST con experiencia de usuario optimizada.
+
+### 🔹 Proyecto Full Stack
+
+Aplicación completa tipo producto con backend + frontend integrados.
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco oportunidades como Desarrollador Full Stack o Backend Java en entornos donde pueda aportar valor real y seguir creciendo técnicamente.
+
+---
+
+## 📬 Contacto
+
+Disponible para entrevistas y oportunidades laborales.
