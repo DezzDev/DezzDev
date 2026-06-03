@@ -1,12 +1,12 @@
 # 👋 Daniel Zapata — Full Stack Developer
 
-Desarrollador Full Stack especializado en Java (Spring Boot) y React, enfocado en construir aplicaciones web escalables, eficientes y bien estructuradas.
+Desarrollador Full Stack especializado en Java (Spring Boot), Node.js y React, enfocado en construir aplicaciones web escalables, eficientes y bien estructuradas.
 
 ---
 
 ## 🧠 En qué me enfoco
 
-* Desarrollo backend con Java y Spring Boot
+* Desarrollo backend con Java (Spring Boot) y Node.js
 * APIs REST seguras y escalables
 * Frontend moderno con React
 * Bases de datos SQL bien diseñadas
